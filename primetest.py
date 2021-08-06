@@ -22,7 +22,8 @@ def listPrime(min=0, max=10):
 
     return(primelist)
 
-# listPrime(0,31)
+##Testing Function
+print(listPrime(0,31))
 # print(checkPrime(31))
 
 # for i in range (10, 0):
